@@ -1,5 +1,3 @@
-Nathan Robinson - Program 1
-
 To run:
 Enter into command line with appropriate file names. Place files in
 the same folder as the TravelingSalesman jar file.
